@@ -1,3 +1,5 @@
+this just uses US websocket
+
 Join the official Discord server:
 https://www.discord.gg/eYRBsaECzY
 
